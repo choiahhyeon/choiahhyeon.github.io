@@ -1,3 +1,7 @@
+.header {
+  height: 20vh;
+}
+
 .header__top {
   display: flex;
   justify-content: space-between;
